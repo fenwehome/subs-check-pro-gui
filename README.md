@@ -10,6 +10,9 @@
 
 </div>
 
+> [!CAUTION]
+> 本仓库归档，迁移至 [Subs Free](https://github.com/sinspired/subs-free) 以支持 `Android` 手机，本仓库下载的软件，自动更新也将指向新地址。
+
 ## 📷 预览
 
 ### 💻 桌面端
